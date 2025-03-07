@@ -1,0 +1,734 @@
+[
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.DepartmentController",
+    "Method": "CreateDepartment",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.DepartmentController",
+    "Method": "UpdateDepartment",
+    "RelativePath": "api/Department",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.DepartmentController",
+    "Method": "DeleteDepartment",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.DepartmentController",
+    "Method": "GetDepartmentsBySubsidiaryId",
+    "RelativePath": "api/Department/{subsidiaryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subsidiaryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.EmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OverTime_Logging.Models.vw_Employees, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "GetEmployeesByDepartmentId",
+    "RelativePath": "api/Employee/{departmentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.EmployeeController",
+    "Method": "GetFilteredEmployees",
+    "RelativePath": "api/Employee/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "subsidiaryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "departmentName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "unitName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OverTime_Logging.Models.vw_Employees, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "GetAllHolidays",
+    "RelativePath": "api/Holiday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OvertTime_Logging.Models.Holiday, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "CreateHoliday",
+    "RelativePath": "api/Holiday",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "holiday",
+        "Type": "CBZ_OvertTime_Logging.Models.Holiday",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OvertTime_Logging.Models.Holiday",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "GetHoliday",
+    "RelativePath": "api/Holiday/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OvertTime_Logging.Models.Holiday",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "UpdateHoliday",
+    "RelativePath": "api/Holiday/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "holiday",
+        "Type": "CBZ_OvertTime_Logging.Models.Holiday",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "DeleteHoliday",
+    "RelativePath": "api/Holiday/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.HolidayController",
+    "Method": "CheckIfHoliday",
+    "RelativePath": "api/Holiday/isHoliday/{date}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "CreateClaim",
+    "RelativePath": "api/OvertimeClaim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claimDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.OvertimeClaimDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "UpdateClaim",
+    "RelativePath": "api/OvertimeClaim",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claimDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.OvertimeClaimDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "GetAllOverTimeClaims",
+    "RelativePath": "api/OvertimeClaim",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OverTime_Logging.Models.vw_OverTimeClaims, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "GetClaimsByEmployeeId",
+    "RelativePath": "api/OvertimeClaim/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "ApproveClaim",
+    "RelativePath": "api/OvertimeClaim/approve/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "approveDto",
+        "Type": "CBZ_OvertTime_Logging.DTOs.ApproveClaimDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.OvertimeClaimController",
+    "Method": "GetFilteredOverTimeClaims",
+    "RelativePath": "api/OvertimeClaim/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "subsidiaryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "departmentName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "unitName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OverTime_Logging.Models.vw_OverTimeClaims, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetAllRates",
+    "RelativePath": "api/Rate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OvertTime_Logging.Models.Rate, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "CreateRate",
+    "RelativePath": "api/Rate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rate",
+        "Type": "CBZ_OvertTime_Logging.Models.Rate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OvertTime_Logging.Models.Rate",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetRate",
+    "RelativePath": "api/Rate/{endDateTime}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "endDateTime",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetRate",
+    "RelativePath": "api/Rate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OvertTime_Logging.Models.Rate",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "UpdateRate",
+    "RelativePath": "api/Rate/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "rate",
+        "Type": "CBZ_OvertTime_Logging.Models.Rate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "DeleteRate",
+    "RelativePath": "api/Rate/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetHolidayRate",
+    "RelativePath": "api/Rate/holiday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetRateForDate",
+    "RelativePath": "api/Rate/rateType_and_rate/{startDateTime}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDateTime",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetRegularRate",
+    "RelativePath": "api/Rate/regular",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.RateController",
+    "Method": "GetSundayRate",
+    "RelativePath": "api/Rate/sunday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.UnitsController",
+    "Method": "GetAllUnits",
+    "RelativePath": "api/Units",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OverTime_Logging.Models.Units, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.UnitsController",
+    "Method": "CreateUnit",
+    "RelativePath": "api/Units",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "unit",
+        "Type": "CBZ_OverTime_Logging.Models.Units",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OverTime_Logging.Models.Units",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.UnitsController",
+    "Method": "GetUnit",
+    "RelativePath": "api/Units/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CBZ_OverTime_Logging.Models.Units",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.UnitsController",
+    "Method": "UpdateUnit",
+    "RelativePath": "api/Units/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "unit",
+        "Type": "CBZ_OverTime_Logging.Models.Units",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OverTime_Logging.Controllers.UnitsController",
+    "Method": "DeleteUnit",
+    "RelativePath": "api/Units/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CBZ_OvertTime_Logging.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CBZ_OvertTime_Logging.WeatherForecast, CBZ_OverTime_Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

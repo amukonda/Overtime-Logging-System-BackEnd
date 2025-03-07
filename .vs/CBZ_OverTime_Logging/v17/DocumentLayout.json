@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306133347_InitialCreate0100102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306133347_InitialCreate0100102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\units.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131824_InitialCreate0100101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306131824_InitialCreate0100101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131257_InitialCreate010010.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306131257_InitialCreate010010.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\dtos\\dtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:dtos\\dtomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\vw_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\vw_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\overtimeclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\overtimeclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\vw_overtimeclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\vw_overtimeclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\subsidiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\subsidiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\overtimeclaimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\overtimeclaimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\iovertimeclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\iovertimeclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\overtimeclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\overtimeclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095853_InitialCreate009.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306095853_InitialCreate009.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095610_InitialCreate007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306095610_InitialCreate007.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095354_InitialCreate006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306095354_InitialCreate006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\unitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\unitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\iunitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\iunitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090857_InitialCreate005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306090857_InitialCreate005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090201_InitialCreate003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306090201_InitialCreate003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306085515_InitialCreate002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250306085515_InitialCreate002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\cbz_overtime_logging.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:cbz_overtime_logging.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\holidaycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\holidaycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\migrations\\20250306051403_initialcreate01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:migrations\\20250306051403_initialcreate01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\migrations\\20250306051211_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:migrations\\20250306051211_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\iholidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\iholidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\interfaces\\isubsidiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:interfaces\\isubsidiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-overtimelogging\\cbz_overttime_logging\\models\\subsidiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB75EE-8714-49A6-85AC-C81E0DAFA546}|CBZ_OverTime_Logging.csproj|solutionrelative:models\\subsidiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 634,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250306133347_InitialCreate0100102.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306133347_InitialCreate0100102.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306133347_InitialCreate0100102.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306133347_InitialCreate0100102.cs",
+              "RelativeToolTip": "Migrations\\20250306133347_InitialCreate0100102.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:33:48.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250306131257_InitialCreate010010.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131257_InitialCreate010010.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306131257_InitialCreate010010.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131257_InitialCreate010010.cs",
+              "RelativeToolTip": "Migrations\\20250306131257_InitialCreate010010.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:12:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubsidiaryService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\SubsidiaryService.cs",
+              "RelativeDocumentMoniker": "Services\\SubsidiaryService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\SubsidiaryService.cs",
+              "RelativeToolTip": "Services\\SubsidiaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:00:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vw_Employees.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\vw_Employees.cs",
+              "RelativeDocumentMoniker": "Models\\vw_Employees.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\vw_Employees.cs",
+              "RelativeToolTip": "Models\\vw_Employees.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:13:41.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:50:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:59:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Units.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Units.cs",
+              "RelativeDocumentMoniker": "Models\\Units.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Units.cs",
+              "RelativeToolTip": "Models\\Units.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:28:23.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250306131824_InitialCreate0100101.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131824_InitialCreate0100101.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306131824_InitialCreate0100101.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306131824_InitialCreate0100101.cs",
+              "RelativeToolTip": "Migrations\\20250306131824_InitialCreate0100101.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:18:24.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:39:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtoModels.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\DTOs\\DtoModels.cs",
+              "RelativeDocumentMoniker": "DTOs\\DtoModels.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\DTOs\\DtoModels.cs",
+              "RelativeToolTip": "DTOs\\DtoModels.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:10:23.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:05:04.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:13:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OvertimeClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\OvertimeClaimService.cs",
+              "RelativeDocumentMoniker": "Services\\OvertimeClaimService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\OvertimeClaimService.cs",
+              "RelativeToolTip": "Services\\OvertimeClaimService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:05:39.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vw_OverTimeClaims.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\vw_OverTimeClaims.cs",
+              "RelativeDocumentMoniker": "Models\\vw_OverTimeClaims.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\vw_OverTimeClaims.cs",
+              "RelativeToolTip": "Models\\vw_OverTimeClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:46:54.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OvertimeClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\OvertimeClaimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OvertimeClaimController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\OvertimeClaimController.cs",
+              "RelativeToolTip": "Controllers\\OvertimeClaimController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwKEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:13:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOvertimeClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IOvertimeClaimService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOvertimeClaimService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IOvertimeClaimService.cs",
+              "RelativeToolTip": "Interfaces\\IOvertimeClaimService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:50:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OvertimeClaim.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\OvertimeClaim.cs",
+              "RelativeDocumentMoniker": "Models\\OvertimeClaim.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\OvertimeClaim.cs",
+              "RelativeToolTip": "Models\\OvertimeClaim.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:40:20.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250306095610_InitialCreate007.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095610_InitialCreate007.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306095610_InitialCreate007.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095610_InitialCreate007.cs",
+              "RelativeToolTip": "Migrations\\20250306095610_InitialCreate007.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:56:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250306095853_InitialCreate009.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095853_InitialCreate009.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306095853_InitialCreate009.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095853_InitialCreate009.cs",
+              "RelativeToolTip": "Migrations\\20250306095853_InitialCreate009.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:58:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250306095354_InitialCreate006.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095354_InitialCreate006.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306095354_InitialCreate006.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306095354_InitialCreate006.cs",
+              "RelativeToolTip": "Migrations\\20250306095354_InitialCreate006.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:53:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:53:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\UnitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnitsController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\UnitsController.cs",
+              "RelativeToolTip": "Controllers\\UnitsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:33:15.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250306090857_InitialCreate005.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090857_InitialCreate005.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306090857_InitialCreate005.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090857_InitialCreate005.cs",
+              "RelativeToolTip": "Migrations\\20250306090857_InitialCreate005.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:08:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitsService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IUnitsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUnitsService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IUnitsService.cs",
+              "RelativeToolTip": "Interfaces\\IUnitsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:30:04.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitsService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\UnitsService.cs",
+              "RelativeDocumentMoniker": "Services\\UnitsService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\UnitsService.cs",
+              "RelativeToolTip": "Services\\UnitsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:31:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:40:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:38:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250306090201_InitialCreate003.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090201_InitialCreate003.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306090201_InitialCreate003.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306090201_InitialCreate003.cs",
+              "RelativeToolTip": "Migrations\\20250306090201_InitialCreate003.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:02:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250306085515_InitialCreate002.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306085515_InitialCreate002.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306085515_InitialCreate002.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306085515_InitialCreate002.cs",
+              "RelativeToolTip": "Migrations\\20250306085515_InitialCreate002.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RateController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\RateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RateController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\RateController.cs",
+              "RelativeToolTip": "Controllers\\RateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:46:25.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRateService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IRateService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRateService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IRateService.cs",
+              "RelativeToolTip": "Interfaces\\IRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:33:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T04:59:09.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:15.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250306051403_InitialCreate01.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306051403_InitialCreate01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306051403_InitialCreate01.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306051403_InitialCreate01.cs",
+              "RelativeToolTip": "Migrations\\20250306051403_InitialCreate01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:14:04.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CBZ_OverTime_Logging.http",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\CBZ_OverTime_Logging.http",
+              "RelativeDocumentMoniker": "CBZ_OverTime_Logging.http",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\CBZ_OverTime_Logging.http",
+              "RelativeToolTip": "CBZ_OverTime_Logging.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-06T05:07:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250306051211_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306051211_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306051211_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Migrations\\20250306051211_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250306051211_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:12:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HolidayService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\HolidayService.cs",
+              "RelativeDocumentMoniker": "Services\\HolidayService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\HolidayService.cs",
+              "RelativeToolTip": "Services\\HolidayService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:37:02.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Rate.cs",
+              "RelativeDocumentMoniker": "Models\\Rate.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Rate.cs",
+              "RelativeToolTip": "Models\\Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:38:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "Services\\RateService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\RateService.cs",
+              "RelativeToolTip": "Services\\RateService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:35:01.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IHolidayService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IHolidayService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHolidayService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\IHolidayService.cs",
+              "RelativeToolTip": "Interfaces\\IHolidayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:36:18.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Holiday.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Holiday.cs",
+              "RelativeDocumentMoniker": "Models\\Holiday.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Holiday.cs",
+              "RelativeToolTip": "Models\\Holiday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:39:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HolidayController .cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\HolidayController .cs",
+              "RelativeDocumentMoniker": "Controllers\\HolidayController .cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\HolidayController .cs",
+              "RelativeToolTip": "Controllers\\HolidayController .cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:35:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:51:13.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\DepartmentService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:04:09.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISubsidiaryService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\ISubsidiaryService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISubsidiaryService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Interfaces\\ISubsidiaryService.cs",
+              "RelativeToolTip": "Interfaces\\ISubsidiaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:06.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:10:40.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Subsidiary.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Subsidiary.cs",
+              "RelativeDocumentMoniker": "Models\\Subsidiary.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-OverTimeLogging\\CBZ_OvertTime_Logging\\Models\\Subsidiary.cs",
+              "RelativeToolTip": "Models\\Subsidiary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:37:18.924Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
